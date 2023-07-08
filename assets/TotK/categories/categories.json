@@ -1,0 +1,532 @@
+[
+  {
+    "id": "2163",
+    "parentId": "2162",
+    "name": "Region Labels",
+    "checked": "1",
+    "img": "",
+    "color": "",
+    "markerCategoryTypeId": "3",
+    "visibleZoom": "2"
+  },
+  {
+    "id": "2164",
+    "parentId": "2162",
+    "name": "Area Labels",
+    "checked": "1",
+    "img": "",
+    "color": "",
+    "markerCategoryTypeId": "3",
+    "visibleZoom": "3"
+  },
+  {
+    "id": "2165",
+    "parentId": "2162",
+    "name": "Places Labels",
+    "checked": "1",
+    "img": "",
+    "color": "",
+    "markerCategoryTypeId": "3",
+    "visibleZoom": "3"
+  },
+  {
+    "id": "2166",
+    "parentId": "2162",
+    "name": "Places Labels - Close",
+    "checked": "1",
+    "img": "",
+    "color": "",
+    "markerCategoryTypeId": "3",
+    "visibleZoom": "3"
+  },
+  {
+    "id": "2131",
+    "parentId": "2130",
+    "name": "Enemy Camp",
+    "checked": "1",
+    "img": "BotW_Enemy-Camp",
+    "color": "#ff422e",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "5"
+  },
+  {
+    "id": "2132",
+    "parentId": "2130",
+    "name": "Bubbulfrog",
+    "checked": "1",
+    "img": "TotK_Bubbulfrog",
+    "color": "#ff422e",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "5"
+  },
+  {
+    "id": "2139",
+    "parentId": "2130",
+    "name": "Wizzrobe",
+    "checked": "1",
+    "img": "BotW_Wizzrobe",
+    "color": "#ff422e",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "6"
+  },
+  {
+    "id": "2140",
+    "parentId": "2130",
+    "name": "Lynel",
+    "checked": "1",
+    "img": "BotW_Lynel",
+    "color": "#ff422e",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "6"
+  },
+  {
+    "id": "2141",
+    "parentId": "2130",
+    "name": "Talus",
+    "checked": "1",
+    "img": "BotW_Boss",
+    "color": "#ff422e",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "6"
+  },
+  {
+    "id": "2142",
+    "parentId": "2130",
+    "name": "Hinox",
+    "checked": "1",
+    "img": "BotW_Hinox",
+    "color": "#ff422e",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "6"
+  },
+  {
+    "id": "2147",
+    "parentId": "2130",
+    "name": "Molduga",
+    "checked": "1",
+    "img": "BotW_Boss",
+    "color": "#ff422e",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "6"
+  },
+  {
+    "id": "2153",
+    "parentId": "2130",
+    "name": "Gleeok",
+    "checked": "1",
+    "img": "BotW_Boss",
+    "color": "#ff422e",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "6"
+  },
+  {
+    "id": "2154",
+    "parentId": "2130",
+    "name": "Flux Construct",
+    "checked": "1",
+    "img": "BotW_Boss",
+    "color": "#ff422e",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "6"
+  },
+  {
+    "id": "2160",
+    "parentId": "2130",
+    "name": "Frox",
+    "checked": "1",
+    "img": "BotW_Boss",
+    "color": "#ff422e",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "6"
+  },
+  {
+    "id": "2161",
+    "parentId": "2130",
+    "name": "Boss",
+    "checked": "1",
+    "img": "BotW_Boss",
+    "color": "#ff422e",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "6"
+  },
+  {
+    "id": "2121",
+    "parentId": "2120",
+    "name": "Village",
+    "checked": "1",
+    "img": "BotW_Village",
+    "color": "#8e72b9",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "5"
+  },
+  {
+    "id": "2123",
+    "parentId": "2120",
+    "name": "Skyview Tower",
+    "checked": "1",
+    "img": "BotW_Sheikah-Tower",
+    "color": "#8e72b9",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "0"
+  },
+  {
+    "id": "2124",
+    "parentId": "2120",
+    "name": "Shops",
+    "checked": "1",
+    "img": "General_Store",
+    "color": "#8e72b9",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "5"
+  },
+  {
+    "id": "2125",
+    "parentId": "2120",
+    "name": "Shrine of Light",
+    "checked": "1",
+    "img": "BotW_Shrines-of-Trials",
+    "color": "#8e72b9",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "2"
+  },
+  {
+    "id": "2126",
+    "parentId": "2120",
+    "name": "Lightroot",
+    "checked": "1",
+    "img": "TotK_Lightroot",
+    "color": "#8e72b9",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "0"
+  },
+  {
+    "id": "2127",
+    "parentId": "2120",
+    "name": "Dungeon",
+    "checked": "1",
+    "img": "BotW_Dungeon",
+    "color": "#8e72b9",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "5"
+  },
+  {
+    "id": "2137",
+    "parentId": "2120",
+    "name": "Great Fairy",
+    "checked": "1",
+    "img": "BotW_Great-Fairy",
+    "color": "#8e72b9",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "5"
+  },
+  {
+    "id": "2138",
+    "parentId": "2120",
+    "name": "Stables",
+    "checked": "1",
+    "img": "BotW_Stables",
+    "color": "#8e72b9",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "5"
+  },
+  {
+    "id": "2150",
+    "parentId": "2120",
+    "name": "Wells",
+    "checked": "1",
+    "img": "TotK_Well",
+    "color": "#8e72b9",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "6"
+  },
+  {
+    "id": "2151",
+    "parentId": "2120",
+    "name": "Caves",
+    "checked": "1",
+    "img": "General_Cave",
+    "color": "#8e72b9",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "6"
+  },
+  {
+    "id": "2152",
+    "parentId": "2120",
+    "name": "Chasm",
+    "checked": "1",
+    "img": "TotK_Chasm",
+    "color": "#8e72b9",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "6"
+  },
+  {
+    "id": "2116",
+    "parentId": "2110",
+    "name": "Korok Seeds",
+    "checked": "1",
+    "img": "BotW_Korok-Seeds",
+    "color": "#3cbc75",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "4"
+  },
+  {
+    "id": "2143",
+    "parentId": "2110",
+    "name": "Treasure Chest (Non-Equip.)",
+    "checked": "1",
+    "img": "BotW_Treasure-Chest",
+    "color": "#3cbc75",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "6"
+  },
+  {
+    "id": "2157",
+    "parentId": "2110",
+    "name": "Treasure Chest (AutoBuild)",
+    "checked": "1",
+    "img": "BotW_Treasure-Chest",
+    "color": "#3cbc75",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "6"
+  },
+  {
+    "id": "2158",
+    "parentId": "2110",
+    "name": "Treasure Chest (Sage's Will)",
+    "checked": "1",
+    "img": "TotK_Sages-Will",
+    "color": "#3cbc75",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "6"
+  },
+  {
+    "id": "2159",
+    "parentId": "2110",
+    "name": "Treasure Chest (Treasure Map)",
+    "checked": "1",
+    "img": "General_Map",
+    "color": "#3cbc75",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "6"
+  },
+  {
+    "id": "2103",
+    "parentId": "2102",
+    "name": "Weapons",
+    "checked": "1",
+    "img": "BotW_Weapons",
+    "color": "#ffad48",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "7"
+  },
+  {
+    "id": "2104",
+    "parentId": "2102",
+    "name": "Bows & Arrows",
+    "checked": "1",
+    "img": "BotW_Bow-n-Arrows",
+    "color": "#ffad48",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "7"
+  },
+  {
+    "id": "2105",
+    "parentId": "2102",
+    "name": "Shields",
+    "checked": "1",
+    "img": "BotW_Shields",
+    "color": "#ffad48",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "7"
+  },
+  {
+    "id": "2144",
+    "parentId": "2102",
+    "name": "Treasure Chest (Weapon)",
+    "checked": "1",
+    "img": "BotW_Treasure-Chest",
+    "color": "#ffad48",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "6"
+  },
+  {
+    "id": "2145",
+    "parentId": "2102",
+    "name": "Treasure Chest (Armor)",
+    "checked": "1",
+    "img": "BotW_Armor",
+    "color": "#ffad48",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "6"
+  },
+  {
+    "id": "2134",
+    "parentId": "2101",
+    "name": "Tears",
+    "checked": "1",
+    "img": "BotW_Memories",
+    "color": "#4bc5ee",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "6"
+  },
+  {
+    "id": "2135",
+    "parentId": "2101",
+    "name": "Side-Quests",
+    "checked": "1",
+    "img": "BotW_Side-Quest",
+    "color": "#4bc5ee",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "6"
+  },
+  {
+    "id": "2136",
+    "parentId": "2101",
+    "name": "Cracked Walls",
+    "checked": "1",
+    "img": "BotW_Bomb",
+    "color": "#4bc5ee",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "8"
+  },
+  {
+    "id": "2146",
+    "parentId": "2101",
+    "name": "Diary & Books",
+    "checked": "1",
+    "img": "BotW_Book",
+    "color": "#4bc5ee",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "8"
+  },
+  {
+    "id": "2148",
+    "parentId": "2101",
+    "name": "Cooking Pot",
+    "checked": "1",
+    "img": "BotW_Cooking_Pot",
+    "color": "#4bc5ee",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "8"
+  },
+  {
+    "id": "2149",
+    "parentId": "2101",
+    "name": "Goddess Statue",
+    "checked": "1",
+    "img": "BotW_Goddess_Statue",
+    "color": "#4bc5ee",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "6"
+  },
+  {
+    "id": "2155",
+    "parentId": "2101",
+    "name": "NPCs",
+    "checked": "1",
+    "img": "TotK_Npc",
+    "color": "#4bc5ee",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "6"
+  },
+  {
+    "id": "2156",
+    "parentId": "2101",
+    "name": "Sign Guy",
+    "checked": "1",
+    "img": "TotK_SignNpc",
+    "color": "#4bc5ee",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "6"
+  },
+  {
+    "id": "2167",
+    "parentId": "2101",
+    "name": "Device Dispenser",
+    "checked": "1",
+    "img": "TotK_Dispenser",
+    "color": "#4bc5ee",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "6"
+  },
+  {
+    "id": "2168",
+    "parentId": "2101",
+    "name": "Cherry Tree",
+    "checked": "1",
+    "img": "TotK_CherryTree",
+    "color": "#4bc5ee",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "6"
+  },
+  {
+    "id": "2169",
+    "parentId": "2101",
+    "name": "Ancient Tablet",
+    "checked": "1",
+    "img": "TotK_AncientTablet",
+    "color": "#4bc5ee",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "6"
+  },
+  {
+    "id": "2101",
+    "parentId": null,
+    "name": "Point of Interest",
+    "checked": "1",
+    "img": "BotW_Points-of-Interest",
+    "color": "#4bc5ee",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "5"
+  },
+  {
+    "id": "2102",
+    "parentId": null,
+    "name": "Equipment",
+    "checked": "1",
+    "img": "BotW_Equipment",
+    "color": "#ffad48",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "7"
+  },
+  {
+    "id": "2110",
+    "parentId": null,
+    "name": "Items",
+    "checked": "1",
+    "img": "BotW_Items",
+    "color": "#3cbc75",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "7"
+  },
+  {
+    "id": "2120",
+    "parentId": null,
+    "name": "Locations",
+    "checked": "1",
+    "img": "BotW_Locations",
+    "color": "#8e72b9",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "5"
+  },
+  {
+    "id": "2130",
+    "parentId": null,
+    "name": "Enemies",
+    "checked": "1",
+    "img": "BotW_Enemies",
+    "color": "#ff422e",
+    "markerCategoryTypeId": "1",
+    "visibleZoom": "5"
+  },
+  {
+    "id": "2162",
+    "parentId": null,
+    "name": "Labels",
+    "checked": "1",
+    "img": "General_Map",
+    "color": "#3cbc75",
+    "markerCategoryTypeId": "3",
+    "visibleZoom": "6"
+  }
+]
